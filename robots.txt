@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sidhu00343-lgtm.github.io/velora-by-bobak/sitemap.xml
